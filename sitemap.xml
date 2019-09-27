@@ -3,18 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>banyolessolidaria.org/</loc>
+    <loc>banyolessolidaria.org/activity01/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/activity02/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/activity03/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/gambia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/nicaragua/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/salvador/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/activity03/</loc>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/activity01/</loc>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/activity02/</loc>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/</loc>
   </url>
   
   <url>
     <loc>banyolessolidaria.org/categories/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/nicaragua/</loc>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/salvador/</loc>
+  </url>
+  
+  <url>
+    <loc>banyolessolidaria.org/gambia/</loc>
   </url>
   
   <url>
     <loc>banyolessolidaria.org/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
