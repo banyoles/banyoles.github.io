@@ -52,7 +52,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>banyolessolidaria.org/nicaragua/</guid>
-      <description>El Salvador       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+      <description>Nicaragua       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
     <item>
@@ -95,16 +95,6 @@
     
     <item>
       <title>El Salvador</title>
-      <link>banyolessolidaria.org/nicaragua/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>banyolessolidaria.org/nicaragua/</guid>
-      <description>Beques per a estudiant universitaris Aquest és un petit projecte d’ajuda a estudiants universitaris pel transport fins a la universitat a Estelí, capital del departament, distant uns 40 km.
-Apadrinaments La situació dels infants discapacitats, molt abundants per les condicions socials i sanitàries del país, és molt precària, sobre tot si viuen en comunitats molt apartades del nucli urbà o en barris perifèrics. Per ajudar a les famílies d’aquests nens/es existeix l’associació “Los Pipitos” (terme carinyòs per referir-se a aquests nens).</description>
-    </item>
-    
-    <item>
-      <title>El Salvador</title>
       <link>banyolessolidaria.org/salvador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -122,6 +112,16 @@ L’acció més important s’ha desenvolupat a Segundo Montes comunitat creada 
       <description>Una mica d&amp;rsquo;història Des de l’any 94 col·laborem amb un poble del centre de Gàmbia anomenat Kerewan. A l’any 2018, a instàncies de l’Ajuntament de Banyoles hem ampliat la nostre actuació a un nou poble, també a l’interior del país, anomenat Sare Yewtou.
 Tan en un cas com en l’altre treballem sobretot en desenvolupament rural, principalment en la millora de la collita per propiciar la millora en l’alimentació.
 Kerewan Desenvolupament rural El clima de Gàmbia és tropical, de manera que té uns 5 mesos de pluges molt abundants durant els quals es realitza tota la collita.</description>
+    </item>
+    
+    <item>
+      <title>Nicaragua</title>
+      <link>banyolessolidaria.org/nicaragua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>banyolessolidaria.org/nicaragua/</guid>
+      <description>Beques per a estudiant universitaris Aquest és un petit projecte d’ajuda a estudiants universitaris pel transport fins a la universitat a Estelí, capital del departament, distant uns 40 km.
+Apadrinaments La situació dels infants discapacitats, molt abundants per les condicions socials i sanitàries del país, és molt precària, sobre tot si viuen en comunitats molt apartades del nucli urbà o en barris perifèrics. Per ajudar a les famílies d’aquests nens/es existeix l’associació “Los Pipitos” (terme carinyòs per referir-se a aquests nens).</description>
     </item>
     
   </channel>
